@@ -1,1 +1,1 @@
-# udacity-aws-cloudformation-devops-project
+# Cloudformation project
