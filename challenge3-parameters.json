@@ -1,0 +1,10 @@
+[
+  {
+    "ParameterKey": "AMItoUse",
+    "ParameterValue": "ami-094125af156557ca2"
+  },
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "Network"
+  }
+]

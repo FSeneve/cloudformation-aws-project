@@ -1,0 +1,26 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "Network"
+	},
+	{
+		"ParameterKey": "Ec2ImageId",
+		"ParameterValue": "ami-0e8ad072b97e68af9"
+	},
+	{
+		"ParameterKey": "SshKeyPairName",
+		"ParameterValue": "nd9990_keypair"
+	},
+	{
+		"ParameterKey": "Ec2InstanceType",
+		"ParameterValue": "t2.medium"
+	},
+	{
+		"ParameterKey": "Ec2VolumeSize",
+		"ParameterValue": "10"
+	},
+	{
+		"ParameterKey": "Ec2DiskName",
+		"ParameterValue": "/dev/sdk"
+	}
+]
